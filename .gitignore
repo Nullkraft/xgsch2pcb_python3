@@ -18,7 +18,9 @@ missing
 __pycache__
 /xgsch2pcb
 configure~
-bin/
-lib/python3.9/
-lib64
-pyvenv.cfg
+/.codex
+/CURRENT_STATE.md
+/bin/
+/lib/python3.9/
+/lib64
+/pyvenv.cfg
